@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center" text-weigt="bold">welcome-to-github</h2>
 <h1 align="center">Hi, I'm Goshitha Premachandra</h1>
-<h3 align="center">Undergraduate Student at SLIIT</h3>
+<h3 align="center" font-family="courier" margin-left=400px>Undergraduate Student at SLIIT</h3>
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
