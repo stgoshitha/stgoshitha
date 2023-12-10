@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" src="" alt="cover" />
+<img align="center" src="https://github.com/stgoshitha/stgoshitha/blob/main/covergithub.png" alt="cover" />
 <!--
 **stgoshitha/stgoshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
