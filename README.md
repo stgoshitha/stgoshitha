@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center" text-weigt="bold">welcome-to-github</h2>
-<h1 align="center">Hi, I'm Goshitha Premachandra</h1>
-<h3 align="center" font-family="courier" margin-left=400px>Undergraduate Student at SLIIT</h3>
-
+<h1 align="center" color="red">Hi, I'm Goshitha Premachandra</h1>
+<h5 align="right">(Undergraduate Student at SLIIT)</h5>
+<hr>
 <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://linkedin.com/in/goshitha premachandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goshitha premachandra" height="30" width="40" /></a>
     <a href="https://fb.com/goshitha premachandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="goshitha premachandra" height="30" width="40" /></a>
   </p>
-
+<hr>
 <h3 align="left">Programming Languages:</h3>
 
   <a href="https://github.com/stgoshitha/stgoshitha/blob/main/README.md">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </p>
   </a>
-
+<hr>
 <h3 align="left">Tools:</h3>
  <a href="https://github.com/stgoshitha/stgoshitha/blob/main/README.md">
 <p aling="right">
@@ -43,9 +43,8 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </p>
- </a>
+</a>
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stgoshitha&show_icons=true&locale=en&layout=compact" alt="stgoshitha" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stgoshitha&show_icons=true&locale=en" alt="stgoshitha" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&" alt="stgoshitha" /></p>
