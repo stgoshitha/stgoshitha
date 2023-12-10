@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </p>
 <hr>
 <h3 align="left">Programming Languages:</h3>
-  <a href="https://github.com/stgoshitha/stgoshitha/blob/main/README.md">
+  <a href="https://github.com/stgoshitha/stgoshitha/blob/main/README.md](https://github.com/stgoshitha">
     <p align="left"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </a>
 <hr>
 <h3 align="left">Tools:</h3>
-  <a href="https://github.com/stgoshitha/stgoshitha/blob/main/README.md">
+  <a href="https://github.com/stgoshitha/stgoshitha/blob/main/README.md](https://github.com/stgoshitha">
     <p aling="right">
       <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;
