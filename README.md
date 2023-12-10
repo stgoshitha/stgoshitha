@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" src="https://github.com/stgoshitha/stgoshitha/blob/main/covergithub.png" alt="cover" />
+
 <!--
 **stgoshitha/stgoshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center" text-weigt="bold">welcome-to-github</h2>
+<img align="center" src="https://github.com/stgoshitha/stgoshitha/blob/main/covergithub.png" alt="cover" />
 <h1 align="center" color="red">Hi, I'm Goshitha Premachandra</h1>
 <h5 align="right">(Undergraduate Student at SLIIT)</h5>
 <hr>
