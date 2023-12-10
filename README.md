@@ -24,7 +24,10 @@ Here are some ideas to get you started:
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="goshitha premachandra" height="30" width="40" />&nbsp;&nbsp;
     </a>
     <a href="https://linkedin.com/in/goshitha premachandra" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goshitha premachandra" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goshitha premachandra" height="30" width="40" />&nbsp;&nbsp;
+    </a>
+    <a href="https://discord.gg/black_shadow2381" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="black_shadow2381" height="30" width="40" />
     </a>
   </p>
 <hr>
