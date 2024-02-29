@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi, I'm Goshitha Premachandra...........</h1>
 <h5 align="right">(Undergraduate Student at SLIIT)</h5>
 <hr>
-<h3 align="left">Connects:</h3>
+<h3 align="left">Social:</h3>
   <p align="left">
     <a href="https://fb.com/goshitha premachandra" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="goshitha premachandra" height="30" width="40" />&nbsp;&nbsp;
@@ -54,4 +54,8 @@ Here are some ideas to get you started:
     </p>
   </a>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&" alt="stgoshitha" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stgoshitha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=tokyonight&hide_border=true)<br/>
