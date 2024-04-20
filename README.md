@@ -59,3 +59,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stgoshitha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=tokyonight&hide_border=true)<br/>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lakruwanpgo&show_icons=true&locale=en" alt="lakruwanpgo" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lakruwanpgo&" alt="lakruwanpgo" /></p>
