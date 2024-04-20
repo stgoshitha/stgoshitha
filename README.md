@@ -55,11 +55,3 @@ Here are some ideas to get you started:
   </a>
 <hr>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stgoshitha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=tokyonight&hide_border=true)<br/>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=stgoshitha&show_icons=true&locale=en" alt="stgoshitha" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&" alt="lakruwanpgo" /></p>
