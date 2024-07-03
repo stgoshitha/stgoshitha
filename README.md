@@ -180,16 +180,7 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/goshitha.premachandra.3/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maneesha-gimshan) 
 
-<table border=0px>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=shadow_blue&show_icons=true&count_private=true&" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=light&hide_border=true" alt="Mark streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" /></td>
-  </tr>
-</table>
-
-
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,discord,github&perline=10)](https://skillicons.dev)
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=shadow_blue&show_icons=true&count_private=true&" alt="GitHub Stats" /> | </a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=shadow_blue&hide_border=false" alt="Mark streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" /></a> |
 | ------------- | ------------- |
