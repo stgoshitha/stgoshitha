@@ -191,7 +191,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,discord,github&perline=10)](https://skillicons.dev)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=shadow_blue&show_icons=true&count_private=true&" alt="GitHub Stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=shadow_blue&hide_border=false" alt="Mark streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" /></a>
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=shadow_blue&show_icons=true&count_private=true&" alt="GitHub Stats" /> | </a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=shadow_blue&hide_border=false" alt="Mark streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" /></a> |
+| ------------- | ------------- |
 
 
