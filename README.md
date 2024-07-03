@@ -158,31 +158,26 @@ Here are some ideas to get you started:
 <hr>
 
 -->
+<h1 align="left">Hi, I'm Goshitha Premachandra...........</h1>
 
+📫 How to reach me: wkgoshithapremachandra@gmail.com
 
 <p align="center">
   <a href="#">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="#">
+   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
   </a>
 </p>
 
-
-
-<!-- Example SVG file content -->
-<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 24 24" fill="#000000">
-  <rect width="100%" height="100%" fill="red"/> <!-- Add a rectangle as background -->
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-  <path d="M12 2C6.477 2 2 6.477 2 12c0 4.419 2.865 8.172 6.839 9.496.5.092.683-.217.683-.483 0-.237-.009-.866-.014-1.701-2.782.605-3.371-1.337-3.371-1.337-.455-1.156-1.113-1.465-1.113-1.465-.911-.622.069-.608.069-.608 1.006.071 1.53 1.034 1.53 1.034.891 1.528 2.34 1.088 2.91.831.092-.645.35-1.088.635-1.339-2.225-.253-4.566-1.113-4.566-4.945 0-1.092.39-1.986 1.034-2.684-.103-.253-.448-1.27.097-2.646 0 0 .841-.269 2.75 1.026.797-.222 1.649-.333 2.5-.337.851.004 1.703.115 2.504.337 1.906-1.295 2.747-1.026 2.747-1.026.546 1.376.201 2.393.098 2.646.644.698 1.033 1.592 1.033 2.684 0 3.842-2.345 4.688-4.577 4.937.36.309.681.918.681 1.85 0 1.336-.012 2.414-.012 2.745 0 .268.18.581.688.482C19.138 20.166 22 16.414 22 12c0-5.523-4.477-10-10-10z"/>
-</svg>
-
-
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/goshitha.premachandra.3/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maneesha-gimshan) 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/facebook-%231DA1F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://web.facebook.com/goshitha.premachandra.3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/maneesha-gimshan) 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,discord,github&perline=10)](https://skillicons.dev)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=shadow_blue&show_icons=true&count_private=true&" alt="GitHub Stats" /> | </a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=shadow_blue&hide_border=false" alt="Mark streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=algolia&show_icons=true&count_private=true&" alt="GitHub Stats" /> | </a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=algolia&hide_border=false" alt="Mark streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" /></a> |
 | ------------- | ------------- |
 
 
