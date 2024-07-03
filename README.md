@@ -169,7 +169,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/facebook-%231DA1F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://web.facebook.com/goshitha.premachandra.3/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/maneesha-gimshan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/goshitha-premachandra) 
 
 <!--[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,discord,github&perline=10)](https://skillicons.dev)-->
 
