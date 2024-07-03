@@ -14,22 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github.com/stgoshitha/stgoshitha/blob/main/covergithub.png" alt="cover" />
+<!--<img align="center" src="https://github.com/stgoshitha/stgoshitha/blob/main/covergithub.png" alt="cover" />
 <h1 align="left">Hi, I'm Goshitha Premachandra...........</h1>
 <h5 align="right">(Undergraduate Student at SLIIT)</h5>
-<hr>
-<h3 align="left">Social:</h3>
-  <p align="left">
-    <a href="https://fb.com/goshitha premachandra" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="goshitha premachandra" height="30" width="40" />&nbsp;&nbsp;
-    </a>
-    <a href="https://linkedin.com/in/goshitha premachandra" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goshitha premachandra" height="30" width="40" />&nbsp;&nbsp;
-    </a>
-    <a href="https://discord.gg/black_shadow2381" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="black_shadow2381" height="30" width="40" />
-    </a>
-  </p>
 <hr>
 <h3 align="left">Programming Languages:</h3>
   <a href="https://github.com/stgoshitha">
@@ -169,19 +156,36 @@ Here are some ideas to get you started:
 </table>
 <br><br>
 <hr>
+
+-->
+
+<div style="background-color: white; height: 100px;">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+</div>
+
+
+  <p align="left">
+    <a href="https://fb.com/goshitha premachandra" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="goshitha premachandra" height="30" width="40" />&nbsp;&nbsp;
+    </a>
+    <a href="https://linkedin.com/in/goshitha premachandra" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goshitha premachandra" height="30" width="40" />&nbsp;&nbsp;
+    </a>
+    <a href="https://discord.gg/black_shadow2381" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="black_shadow2381" height="30" width="40" />
+    </a>
+  </p>
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=dark&hide_border=false" /> 
 </td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=stgoshitha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<td>
   
+</td>
+<td width="50%" align="center">
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=dark&hide_border=false" /> 
   </td>
 </tr>
 </table>
@@ -190,5 +194,4 @@ Here are some ideas to get you started:
 <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
