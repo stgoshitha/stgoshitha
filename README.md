@@ -158,24 +158,20 @@ Here are some ideas to get you started:
 <hr>
 
 -->
+<p align="center">
+  <a href="#">
+   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="200" height="200" alt="GitHub" />
+  </a>
+</p>
 <h1 align="left">Hi, I'm Goshitha Premachandra...........</h1>
 
 📫 How to reach me: wkgoshithapremachandra@gmail.com
-
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="#">
-   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
-  </a>
-</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/facebook-%231DA1F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://web.facebook.com/goshitha.premachandra.3/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/maneesha-gimshan) 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,discord,github&perline=10)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,discord,github&perline=10)](https://skillicons.dev)-->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=algolia&show_icons=true&count_private=true&" alt="GitHub Stats" /> | </a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=algolia&hide_border=false" alt="Mark streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" /></a> |
 | ------------- | ------------- |
