@@ -158,40 +158,11 @@ Here are some ideas to get you started:
 <hr>
 
 -->
+![](https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=dark&show_icons=true&count_private=true)
+![Mark streak](https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=dark&hide_border=false "🔥 Get streak stats for your profile at git.io/streak-stats")
 
-<div style="background-color: white; height: 100px;">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-</div>
+[![PrinceGoblinTech :: Visitor's Count](https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg)](https://gist.github.com/PrinceGoblinTech)
 
 
-  <p align="left">
-    <a href="https://fb.com/goshitha premachandra" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="goshitha premachandra" height="30" width="40" />&nbsp;&nbsp;
-    </a>
-    <a href="https://linkedin.com/in/goshitha premachandra" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goshitha premachandra" height="30" width="40" />&nbsp;&nbsp;
-    </a>
-    <a href="https://discord.gg/black_shadow2381" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="black_shadow2381" height="30" width="40" />
-    </a>
-  </p>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=dark&show_icons=true&count_private=true" />
-</td>
-<td>
-  
-</td>
-<td width="50%" align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=dark&hide_border=false" /> 
-  </td>
-</tr>
-</table>
-
-<p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
 
 
