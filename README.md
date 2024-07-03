@@ -158,12 +158,16 @@ Here are some ideas to get you started:
 <hr>
 
 -->
+
 <p align="center">
   <a href="#">
    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="200" height="200" alt="GitHub" />
   </a>
 </p>
-<h1 align="left">Hi, I'm Goshitha Premachandra...........</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Signika+Negative&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Goshitha+Premachandra....;+♠️+Black+Shadow+♠️+" />
+</h1>
 
 📫 How to reach me: wkgoshithapremachandra@gmail.com
 
