@@ -158,6 +158,8 @@ Here are some ideas to get you started:
 <hr>
 
 -->
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/goshitha.premachandra.3/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maneesha-gimshan) 
+
 ![](https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=dark&show_icons=true&count_private=true)
 ![Mark streak](https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=dark&hide_border=false "🔥 Get streak stats for your profile at git.io/streak-stats")
 
