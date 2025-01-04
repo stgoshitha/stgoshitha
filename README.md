@@ -171,11 +171,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Signika+Negative&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Goshitha+Premachandra....;+♠️+Black+Shadow+♠️+" />
-</h1>
+</div>
 
-📫 How to reach me: wkgoshithapremachandra@gmail.com
+## 💫 About Me:
+
+📫  _**How to reach me**_  : wkgoshithapremachandra@gmail.com
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/goshitha.premachandra.3/) 
@@ -207,11 +210,12 @@ Here are some ideas to get you started:
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
 
 
-<!--[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,discord,github&perline=10)](https://skillicons.dev)-->
 ## 📊 GitHub Stats:
-| <a href="https://github.com/stgoshitha"><img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=algolia&show_icons=true&count_private=true" alt="GitHub Stats" /></a> | <a href="https://github.com/stgoshitha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=algolia&hide_border=false" alt="GitHub Streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" /></a> | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stgoshitha&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
-| ------------- | ------------- | ------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=algolia&show_icons=true&count_private=true" alt="GitHub Stats" /> | | 
+| ------------- | ------------- | 
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=algolia&hide_border=false" alt="GitHub Streak" title="🔥 Get streak stats for your profile at git.io/streak-stats"  width="470" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stgoshitha&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="470" height="180"> |
 
+ 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=stgoshitha&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
@@ -219,6 +223,13 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stgoshitha&icon=6&color=1)](https://visitcount.itsvg.in)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
