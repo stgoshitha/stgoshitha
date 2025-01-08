@@ -224,17 +224,18 @@ Here are some ideas to get you started:
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stgoshitha&icon=6&color=1)](https://visitcount.itsvg.in)
+<table align="center" border="0px">
+  <tr>
+    <td>
+      <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=stgoshitha&color=blue"> </a>
+    </td>
+    <td>
+      <a href="https://github.com/stgoshitha?tab=followers"><img src="https://img.shields.io/github/followers/stgoshitha?label=Followers&style=social" alt="GitHub Badge"></a>
+    </td>
+  </tr>
+</table>
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
