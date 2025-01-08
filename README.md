@@ -211,11 +211,13 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub Stats:
-| <img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=algolia&show_icons=true&count_private=true" alt="GitHub Stats" /> | | 
+| <img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=algolia&show_icons=true&count_private=true" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=algolia&hide_border=false" title="🔥 Get streak stats for your profile at git.io/streak-stats"  width="470" />  | 
 | ------------- | ------------- | 
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=stgoshitha&theme=algolia&hide_border=false" alt="GitHub Streak" title="🔥 Get streak stats for your profile at git.io/streak-stats"  width="470" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stgoshitha&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="470" height="180"> |
 
- 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stgoshitha&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+</div>
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=stgoshitha&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
