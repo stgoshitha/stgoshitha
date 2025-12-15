@@ -218,10 +218,12 @@ Here are some ideas to get you started:
 
 </div>
 
+<!--
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=stgoshitha&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
+-->
 
 ---
 <table align="center" border="0px">
