@@ -164,7 +164,6 @@ Here are some ideas to get you started:
 
 
 
-
 <p align="center" >
   <a href="#">
    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="200" height="200" alt="GitHub" />
@@ -172,11 +171,18 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Signika+Negative&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Goshitha+Premachandra....;+♠️+Black+Shadow+♠️+" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Signika+Negative&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Goshitha+Premachandra....;+♠️+Black+Shadow+♠️+;<!--+Web+Developer+-->" />
 </div>
+
+---
+<p align="center">
+  <span> <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=stgoshitha&color=blue"></a> </span> &nbsp;&nbsp;&nbsp; <span> <a href="https://github.com/stgoshitha?tab=followers"><img src="https://img.shields.io/github/followers/stgoshitha?label=Followers&style=social" alt="GitHub Badge"> </span>
+</p>
+
 
 ## 💫 About Me:
 
+🔭 **I’m currently working as a Software Engineering Intern while completing my 4th year undergraduate studies at SLIIT**  
 📫  _**How to reach me**_  : wkgoshithapremachandra@gmail.com
 
 
@@ -211,22 +217,23 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub Stats:
-| <img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=algolia&show_icons=true&count_private=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stgoshitha&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  width="400">  | 
-| ------------- | ------------- | 
 
-<div align="center">
+| | | |  | | | |  | | | <div align="center" > <img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=algolia&show_icons=true&count_private=true" alt="GitHub Stats" /> </div> | | | | | | | | | |  |  
+| ------------- | ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
-</div>
 
 <!--
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stgoshitha&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  width="400">  
+</div>
+
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=stgoshitha&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
--->
 
----
-<table align="center" border="0px">
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=stgoshitha&color=blue"> </a>
@@ -236,6 +243,10 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+-->
+
+---
+
 
 
 
