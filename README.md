@@ -218,11 +218,14 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 
-| | | |  | | | |  | | | <div align="center" > <img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=algolia&show_icons=true&count_private=true" alt="GitHub Stats" /> </div> | | | | | | | | | |  
-| ------------- | ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-
+<p align="center">
+  <span>  <img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=algolia&show_icons=true&count_private=true" alt="GitHub Stats" /> </span>
+</p>
 
 <!--
+
+| | <div align="center" > <img src="https://github-readme-stats.vercel.app/api?username=stgoshitha&theme=algolia&show_icons=true&count_private=true" alt="GitHub Stats" /> </div> | |
+| ------------- | ------------- | ------------- |
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stgoshitha&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  width="400">  
 </div>
